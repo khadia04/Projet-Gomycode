@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+header{
+    width: 100%;
+    max-width: 100%;
+    background-color: black;
+    position: fixed;
+    padding: 05px;
+}
+.navbar {
+    color: white;
+}
+li {
+    display: inline;
+    margin: 10px;
+    text-decoration: none;
+    list-style-type: none;
+}
+a {
+    color: yellowgreen;
+    font-weight: bold;
+
+}
+/*le style du navbar*/
+
+h1 {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.broderie {
+    padding: 100px;
+
+}
+.broderies {
+    text-decoration: underline;
+    
+}
+.h1 {
+    padding: 10px;
+}
+h2 {
+    font-weight: bold;
+}
+.p {
+    font-weight: bold;
+    
+
+}
+button {
+    background-color: yellowgreen;
+    font-weight: bold;
+}
+.containers{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+/*le style du body*/
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+.ul {
+   padding: 10px;
+   margin: 10px; 
+}
+h6 , h5{
+    color: yellowgreen;
+}
+.img {
+    padding: 10px;
+}
+.site {
+    background-color: rgb(21, 24, 24);
+    color: white;
+    padding: 10px;
+}
+.white {
+    color: white;
+    text-decoration: underline;
+}
